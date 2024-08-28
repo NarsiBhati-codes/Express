@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "task": "Finish the Express server setup",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "task": "Add error handling for JSON parsing",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "task": "Write unit tests for the TODO API",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "task": "Update documentation for the API endpoints",
+      "completed": true
+    },
+    {
+      "id": 5,
+      "task": "Refactor code to improve readability",
+      "completed": false
+    }
+  ]
+  
